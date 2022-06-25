@@ -1,3 +1,5 @@
+## BUG
+* window drag 不起作用
 ## PIXI.js V5.3.8 可用的FairyGUI库
 ## PIXI.js V5.3.8 available PIXI.js V5.3.8 Fairygui Library
 该库是基于https://github.com/jcyuan/FairyGUI-PixiJS修改而来.
